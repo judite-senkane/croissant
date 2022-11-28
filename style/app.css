@@ -1,6 +1,6 @@
 body {
   margin: 0 auto;
-  max-width: 80%;
+  max-width: 900px;
   background: #c4c1e0;
 }
 h1 {
@@ -16,4 +16,7 @@ img {
 }
 .links a {
   margin: 30px;
+}
+.contact-info {
+  text-align: center;
 }
